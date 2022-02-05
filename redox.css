@@ -1,0 +1,62 @@
+body{
+  margin: 0;
+  background: #000;
+  padding: 0;
+}
+
+.toggler{
+  height: 30px;
+  width: 30px;
+  position: relative;
+  left: 48rem;
+  top: .5rem;
+}
+.navuy{
+  color: #c2c2c2;
+  font-family: 'Ubuntu', sans-serif;
+}
+.tibet{
+  height: 94vh;
+  width: 1020px;
+  position: absolute;
+  padding: 5% 2%;
+  margin: 3%;
+}
+.first_page{
+  height: 89vh;
+  width: 35rem;
+  margin-top: 25px;
+  margin-left: -15px;
+}
+.row{
+  padding-right: -100px;
+}
+.text p{
+  margin-left: 50px;
+}
+.text h1{
+  margin-left: 50px;
+  color: #6F37D4;
+  font-size: 55px;
+}
+.text button{
+  margin-left: 50px;
+}
+.text{
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .25mm;
+  background-color: #ef89a5;
+  padding-top: 90px;
+  line-height: 2 ;
+  text-align: left;
+}
+#home{
+  display: block;
+  position: absolute;
+}
+#cards{
+  display: block;
+  position: absolute;
+  top: 100vh;
+}
